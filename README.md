@@ -1,4 +1,4 @@
-# InterviewBit Coding Problems
+# InterviewBit
 
 ## [Array](https://www.interviewbit.com/courses/programming/topics/arrays/)
 
