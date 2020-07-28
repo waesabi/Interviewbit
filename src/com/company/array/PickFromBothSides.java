@@ -20,6 +20,8 @@ public class PickFromBothSides {
 
     public static int solve(int[] A, int B) {
         int size = A.length;
+
+        //Construct the list
         ArrayList<Integer> list = new ArrayList<>();
         for (int i = B-1; i >= 0; i--) {
             list.add(A[i]);
@@ -29,6 +31,9 @@ public class PickFromBothSides {
         for (int i = size - 1; i >= index ; i--) {
             list.add(A[i]);
         }
+
+
+        // Now find the max sum subarray of size B
         int maxSum = Integer.MIN_VALUE;
         int sum = 0;
         for (int i = 0; i < B; i++) {
