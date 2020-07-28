@@ -69,7 +69,7 @@
           </td>
           <td>
             <a
-              href="https://github.com/waesabi/Interviewbit-Coding-Problems/blob/master/out/production/Interviewbit/com/company/array/PickFromBothSides.class"
+              href="https://github.com/waesabi/Interviewbit-Coding-Problems/blob/master/src/com/company/array/PickFromBothSides.java"
               >Solution</a
             >
           </td>          
