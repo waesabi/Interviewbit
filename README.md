@@ -74,5 +74,20 @@
             >
           </td>          
         </tr>
+        <tr>
+          <td>5</td>
+          <td>Maximum Absolute Difference</td>
+          <td>
+            <a href="https://www.interviewbit.com/problems/maximum-absolute-difference/"
+              >Link</a
+            >
+          </td>
+          <td>
+            <a
+              href="https://github.com/waesabi/Interviewbit/blob/master/src/com/company/array/MaximumAbsoluteDifference.java"
+              >Solution</a
+            >
+          </td>          
+        </tr>
       </tbody>
 </table>
