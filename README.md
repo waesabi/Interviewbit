@@ -1,13 +1,14 @@
-# Interviewbit-Coding-Problems
+# InterviewBit Coding Problems
 
-##[Array](https://www.interviewbit.com/courses/programming/topics/arrays/)
+## [Array](https://www.interviewbit.com/courses/programming/topics/arrays/)
+
 <table>
       <thead>
         <tr>
           <th>Id</th>
           <th>Problem Statement</th>
           <th>Problem Link</th>
-          <th>Solution</th>
+          <th>Solution</th>          
         </tr>
       </thead>
       <tbody>
@@ -58,5 +59,20 @@
             >
           </td>
         </tr>
+        <tr>
+          <td>4</td>
+          <td>Pick from both sides!</td>
+          <td>
+            <a href="https://www.interviewbit.com/problems/pick-from-both-sides/"
+              >Link</a
+            >
+          </td>
+          <td>
+            <a
+              href="https://github.com/waesabi/Interviewbit-Coding-Problems/blob/master/src/com/company/array/AddOneToNumber.java"
+              >Solution</a
+            >
+          </td>          
+        </tr>
       </tbody>
-    </table>
+</table>
