@@ -104,5 +104,20 @@
             >
           </td>          
         </tr>
+        <tr>
+          <td>7</td>
+          <td>Find Duplicate in Array</td>
+          <td>
+            <a href="https://www.interviewbit.com/problems/find-duplicate-in-array/"
+              >Link</a
+            >
+          </td>
+          <td>
+            <a
+              href="https://github.com/waesabi/Interviewbit-Coding-Problems/blob/master/src/com/company/array/FindDuplicateInArray.java"
+              >Solution</a
+            >
+          </td>          
+        </tr>
       </tbody>
 </table>
