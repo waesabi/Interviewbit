@@ -89,5 +89,20 @@
             >
           </td>          
         </tr>
+        <tr>
+          <td>6</td>
+          <td>Partitions</td>
+          <td>
+            <a href="https://www.interviewbit.com/problems/partitions/"
+              >Link</a
+            >
+          </td>
+          <td>
+            <a
+              href="https://github.com/waesabi/Interviewbit-Coding-Problems/blob/master/src/com/company/array/Partitions.java"
+              >Solution</a
+            >
+          </td>          
+        </tr>
       </tbody>
 </table>
